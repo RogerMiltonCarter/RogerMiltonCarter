@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Roger
+- 👋 Hi, I’m Roger
 - 👀 I’m interested in keeping my skills current as a seasoned IT professional / manager...
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on AI projects
